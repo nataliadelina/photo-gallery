@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Berry",
+    "details": "berry and leafs in the autumn",
+    "img": "images/gallery/1-berry-leafs.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Green Flower",
+    "details": "green flower in the spring",
+    "img": "images/gallery/2-green-flower.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Berlin Street",
+    "details": "berlin street in the evening",
+    "img": "images/gallery/3-berlin-street.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Dags",
+    "details": "dugs family",
+    "img": "images/gallery/4-dugs.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Flower",
+    "details": "flower in the spring",
+    "img": "images/gallery/5-spring-flower.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Clouds",
+    "details": "clouds",
+    "img": "images/gallery/6-move-clouds.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Festival of Light",
+    "details": "Berlin Light Festival",
+    "img": "images/gallery/7-berlin-light-festival.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Grape",
+    "details": "blue grapes on the wall",
+    "img": "images/gallery/8-grape.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Rain Drops",
+    "details": "Berlin - rain drops",
+    "img": "images/gallery/9-rain-drops.jpg"
+  }
+]
