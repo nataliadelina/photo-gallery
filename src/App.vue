@@ -1,10 +1,12 @@
 <template>
   <Header />
+  <Gallery />
   <Footer />
 </template>
 
 <script>
 import Header from "./components/Header.vue";
+import Gallery from "./components/Gallery.vue";
 import Footer from "./components/Footer.vue";
 import "./assets/css/global.css";
 
@@ -12,6 +14,7 @@ export default {
   name: "App",
   components: {
     Header,
+    Gallery,
     Footer,
   },
 };
